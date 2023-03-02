@@ -52,6 +52,53 @@
     </div>
   </div>
 </nav>
+<!-- cajas -->
+<div class="row" style="background:#000000; padding:10px">
+
+
+  <div class="col-sm-3 mb-3 mb-sm-0">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">CAJA 1</h5>
+        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">CAJA 2</h5>
+        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="col-sm-3" style="color:#ffd800">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">CAJA 3</h5>
+        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-3" style="color:#b6ff00">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">CAJA 4</h5>
+        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+      </div>
+    </div>
+  </div>
+
+</div>
 
 
 
